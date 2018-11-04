@@ -1,0 +1,14 @@
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/bin/Debug/netcoreapp2.1/Handallo.deps.json
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/bin/Debug/netcoreapp2.1/Handallo.runtimeconfig.json
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/bin/Debug/netcoreapp2.1/Handallo.runtimeconfig.dev.json
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/bin/Debug/netcoreapp2.1/Handallo.dll
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/bin/Debug/netcoreapp2.1/Handallo.pdb
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/obj/Debug/netcoreapp2.1/Handallo.csprojAssemblyReference.cache
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/obj/Debug/netcoreapp2.1/Handallo.csproj.CoreCompileInputs.cache
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/obj/Debug/netcoreapp2.1/Handallo.RazorAssemblyInfo.cache
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/obj/Debug/netcoreapp2.1/Handallo.RazorAssemblyInfo.cs
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/obj/Debug/netcoreapp2.1/Handallo.AssemblyInfoInputs.cache
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/obj/Debug/netcoreapp2.1/Handallo.AssemblyInfo.cs
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/obj/Debug/netcoreapp2.1/Handallo.RazorTargetAssemblyInfo.cache
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/obj/Debug/netcoreapp2.1/Handallo.dll
+/Users/himal/Documents/Development/DotNetCore/Handallo/Handallo/obj/Debug/netcoreapp2.1/Handallo.pdb
